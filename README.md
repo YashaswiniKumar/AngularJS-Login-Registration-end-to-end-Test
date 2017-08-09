@@ -1,7 +1,7 @@
 # AngularJS-Login-Registration-end-to-end-Test
-Install http package from npm.\n
-start http server with command http-server
+Install http package from npm.
+Start http server with command 'http-server'.
 Install protractor globally 
-start a server with command webdriver-manager start
+Start a server with command 'webdriver-manager start'.
 Run the protractor test using command 
-protractor conf.js
+'protractor conf.js'
